@@ -1,14 +1,11 @@
 # Python Fundamentals Practice
 
 ## About This Project
-This repository contains 10 Python practice programs created to strengthen my understanding of Python fundamentals.
+This repository contains 11 Python practice programs created to strengthen my understanding of Python fundamentals.
 
 ## Topics Covered
 - Variables and Data Types
 - Arithmetic Operators
-- User Input and Output
-- Conditional Statements
-- Loops
 - Financial Calculations
 - F-Strings and Number Formatting
 
